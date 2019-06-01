@@ -1,0 +1,663 @@
+English
+
+
+
+# For the begining
+I'm glad to meet you. 
+Nice to meet you. 
+Let me introduce myself. 
+It's pleasure to talk with you. 
+ 
+I'm not feeling very well.
+because it's rain today and low air pressure outside
+ 
+# Who i am, what I like
+Hi, I'm <Full Name>. please call me "<Nick Name>". 
+I'm 30 years old. 
+I live in Tokyo, Japan. 
+I've lived here for 5 years by myself. 
+and worked as a computer programmer for the same time period. 
+ 
+# Topic, talk theme
+about myself
+about my job (to explain for co-workers from India)
+about trends in my industry ( like Internet services, AI, BigData, ...) especially about technical trends
+about company or social problem
+ 
+# BackGround
+But before I came here, I lived in Kyoto with my family. 
+ (Kyoto is used to be a capital of Japan hundreds years ago) 
+I grew up in Kyoto. 
+That is my home town. 
+I have a younger sister. ( she is  5 years younger than me.) 
+and I have 3 cats. 
+ 
+When I was a university student at Kyoto,
+I studied
+ - electric science
+ - computer science
+ - neuro science.
+ 
+  What I found interesting the best is neuro science, 
+  because that is the science to explain ourselves 
+  how I think, why we can understand ... and so on. 
+  And I also was interested in an experience in the field. 
+  I used a head cap with a lot of electrodes to measure brain waves. 
+ 
+The reason why I choosed the fields, 
+It's difficult to find a job by being a neuroscientist.
+ 
+# Favorites, In free time
+I like a Science fiction. 
+I like to watching movie 
+my favorites genre is Science fiction like "Matrix", 
+ 
+In my free time, I go to gym and train some hours, 
+Because I am a engineer, My job lacks physical activity.
+I have started going to gym 3 years ago.
+Lack of exercise
+最近: lately, recently, these days
+https://eikaiwa.weblio.jp/column/phrases/vocabulary/lately-recently-these-days
+ 
+Which country have I visited, and What have I enjoyed there ?
+ 
+ 
+# The reason why I started
+These days, I was told by my boss that 
+3 foreigners from India are going to come to work with us. 
+So I have to speak English to communicate with them. 
+That's why I started this online English cource from this April. 
+ 
+As the first goal in this course, 
+I want to be able to tell others about myself in English. 
+So I want to talk about self-introduction in this time. 
+ 
+The purpose of my study on this class is to explain what our company do
+  and what we do these days.
+I want you to help me with making sentences to explain our company and jobs.
+ 
+help 人 Ving, to V (?)
+人が〜するのを助ける
+help 人 to V
+help 人 with N
+ 
+If you find something wrong or strange in my English, 
+please let me know about that 
+and tell me correct expression. (don't hesitate to do that, okay?)
+ 
+# Recently happen
+# Recent News
+ 
+# company
+My company runs several services that includes web-news, online shopping, weather forcast , online auction and so on.
+we have over 100 services.
+"portal"
+ 
+# department
+My department deals with storing various types of data, processing the data by using some systems
+and providing data for our own service to grow and improve itself.
+Sometimes, we also provide our data to other companies.
+ 
+The good thing of working at home is
+that I don't have to commute to my company by train.
+ 
+We are collecting and analyzing the data about the customers
+and using it to predict what they are most likely to buy.
+ 
+ 
+# amazon & google
+They have been already running their services in the global market.
+ 
+# good or bad about my job
+The best thing about my work is ...
+welfare, benefits: 福利厚生
+maternity leave: 産休
+paternity leave (for men): 育休
+in-house system
+ 
+# my recent work
+We have been creating a system for transforming data.
+We've built a new system for easy data ETL processing.
+ETL is a technical term in my industry.
+It's an abbreviation of Extract, Transform and Load.
+"Extract" means to get data from outer place.
+"Transform" means to make some change in data
+"Load" means to load data to somewhere like storage for data.
+ 
+ 
+ 
+> Memo
+# thinking ...
+I forgot the word in English, let me see... 
+I forgot how to say the word in English... 
+ 
+# useful phrases
+It depends on the day. 
+That's it. = That's correct. 
+高所恐怖症： acrophobia, acrophobic 
+苦手: don't like, fear 
+注射: Injection 
+ 
+# lesson materials
+http://eikaiwa.dmm.com/material/new_conversation/
+ 
+ 
+Zaim: The application helps you keep within a budget.
+could you do me a favor ?
+ 
+交換可能: replacable ,
+楽観的に見えます: you look so optimistic
+被験者を募集して実験しました: we recruit some subjects to experiment
+被験者に協力をお願いしました: we asked some people to join our experiment and cooperate with us
+thesis: 論文
+ 
+数値検証:
+競争ポイント: sales point, competition
+規制: regulation
+絶対: definitly
+ 
+対義語: antonyms
+略語: abbreviation
+正式名称: full form expansion, long term, long expression
+ 
+何かおすすめはありますか？: Do you have any recommends
+もし時間をたくさんかければ: If I take much time to ~
+ 
+〜に役立つ何か:
+something that have many expression
+materials that have many useful expression in ~
+ 
+いつから好きになったか:
+Since when do you like ~ ?
+ 
+In my personality
+ 
+taiwan
+manila
+ 
+どちらかと言うと:
+  if anything ~ 強いていうと
+ 
+〜は期待できる
+ブラウザ戦争
+エディタ戦争
+我々の業界には宗教的問題がたくさんある
+熱心な信者もいる
+第３勢力
+より直感的で使いやすい
+彼らはいつも言い争っている
+ 
+introduce business
+https://www.fluentu.com/blog/business-english/business-english-introductions/
+ 
+make muscle big
+ 
+ 
+Peles Castle: rumania castle
+ 
+help me to make English composition
+ 
+専門的な表現が多く、一般のテキストがあまり役立たない
+expert technical
+improvement
+get along
+ 
+dir en grey
+ 
+limited: しかしながら私達のデータ活用は限定的です
+accuse: 最近はfacebookが個人情報保護に関して訴えられたり、追求されています
+involve:  プライバシー管理の仕事にどう関わっているか
+public office: 役所や国のために、知識や技術を活かしたい
+Pseudonymisation:  仮名化
+ 
+ETL
+manipulate: 操作する
+data visualization
+ like google trends
+facilitate
+ 
+
+ 
+ 
+羨ましい: I envy you
+貨幣博物館: currency museum
+peso
+国際政治: international politics
+ 
+ 
+I'd like you to help me with
+ 
+questions
+  http://iteslj.org/questions/
+セルビアがいい試合をする:
+ 
+半島: Peninsula
+休日はその国の文化を反映しています:
+May day: 労働者の日
+ 
+Ingredient
+ 
+ 
+ 
+I felt very sad to
+But they gave me hope and challenging spirit to challenge difficulty
+困難に立ち向かう日本代表は私を勇気づけました: encourage me
+Belgium: ベルギー
+尊敬します: respect
+引き分け: draw
+適切な表現: adequate
+リーダーやチームの運営にとって重要なことは何でしょうか？
+アメとムチ: carrot and stic
+visionの共有とそれを矯正しないこと: force empathy
+不確定性のコントロールです: uncertainty
+ 
+ 
+There area a lot of things to learn
+ 
+Nis 3rd Serbia city.
+ 
+
+Gravityという映画は重力のありがたさが感じられる映画です。
+地球上で無重力の演出をどのように撮影したのか気になります
+Space Odyssey 2001も無重力空間の撮影の工夫が凄い映画でした。
+映画撮影: recorded the movie, shoot the movie
+spectacle scene: 目を見張る光景
+異常気象: Extreme weather, unusual weather, abnormal weather
+ 
+〜に関して言うと: Regarding ~, in terms of ~ , when it comes to ~
+AIが人間に取って代わられる: substitute, replace our jobs
+心がける
+ 
+学習塾: private classes , booster classes, after school extra lessons
+ 
+  
+どこの県の生徒が多いですか？:
+From which prefecture are your students from
+ 
+業務: job task work assign
+ 
+お気軽にご質問下さい: feel free to ask
+be in charge of: 担当の
+仕事が変わるかもしれない:
+Unfortunatly, the first task may change for some reasons unexpectedly.
+〜を知っておくと(慣れておくと)、仕事がスムーズに進めやすいです:
+私達の担当領域: what we are in charge of ?
+膨大なデータ: fuge data
+社内の利用者: in-company users ? co-workers ?
+エンドユーザー: end-user service user ?
+ 
+> Mila
+traveling
+ 
+オーストラリアやヨーロッパの一人旅
+なんとか生き残れた
+カードが使えなくて、現金も下ろせなくなって困った
+ユースホステルのルームメイトに相談した。
+ホステルから駅までついてきてもらった。
+ 
+京都に帰る途中に他の県へ寄り道して観光することがある
+日本の夏は最近は暑くて、今年は過去最高気温を更新した。
+ 
+自動運転技術の実現ではトロッコ問題が懸念です
+trolley problem
+人工知能が発達すれば人々は選択を少なく出来て楽です
+ 
+ 
+> 旅行
+実家の京都に帰った時、トロッコに乗りました
+trolley train: トロッコ
+ride
+ 
+# シンガポール旅行
+マリーナベイサンズは物理的に不安定な構造をしています:
+Marina Bay Sands is physically unstable structure.
+建設会社は継続性に問題があってつぶれました:
+The building company became bankrupt becase of its continuity.
+ 
+ 
+# other 
+猫は腎臓が弱い: renal
+発展途上: developing
+ゲリラ豪雨: guerrilla rain
+予兆、前兆: omen, precursory phenomenon
+ 
+食べ歩き: walk to eat
+しがち: tend to
+しあわせラーメンは占い: fortune telling
+特産品: specialty goods
+ご当地: local own
+雪国: snow country
+ 
+死んでいなかった
+何度でも蘇る
+ 
+下書き: draft
+それは極端な意見: radical opinion, extreme
+ 
+ 
+many in common
+ 
+ 
+# TV drama
+suites
+Job fraud
+学歴 academic background, history? career
+共犯者: accomplice , collaborator in crime
+master of flowlens, westworld 
+
+
+
+# 味、料理、ごはん
+学説: theory
+
+
+# その他
+ぜいたくを言うなら: If it's possible
+流行り: Trend
+採用: adopt
+脅かす: threaten
+荒井は荒野の井戸の意味を表します
+  荒野: wasteland
+  井: well or rich plentiful water place
+悩んでいる: I wonder if I should 
+依頼される: asked to
+見たところ: Apperently 
+
+# 海外の人との英語コミュニケーション
+公用語: official language
+濁音: voiced sound
+  インド人は"z""d""g"などの濁音の発音が強いです
+海外での研修の人員を募集していた
+  募集: recruit, looking for person ;
+
+
+
+その観点についてどう思う
+
+
+manage to : なんとか～する
+yawn: あくび
+震度: seismic intensity, earthquake intensity
+～のおかげで: owing to , that is thanks to 
+ほめられた: get praised
+近代: modern
+現代: present-day
+最近: recently=過去, these days=現在, 
+大学院: graduate college
+パソコンやスマホの普及: spread, become popular
+カースト: caste
+cradle: 発祥地, birth place
+chest: 猫はたんすでよく寝る, chest of drawers
+どらえもんは猫型ロボットで
+日本猫: Japanese cat
+Fluffy: ふわふわ
+swear: 誓う
+声が曇っている: unclear voice
+家電量販店: appliance store
+育児休暇: child care leave
+
+社内ユーザーのためにデータを提供しています: we provide data for in-company users
+メタファー
+
+
+# self-introduction ( my Job )
+In this picture, 
+I am in charge of the bottom of it, Data-Engineer.
+
+we are mainly responsible to collect log data from each services, 
+  and aggregate it ( like count, merge, ...)
+  and finally provide data for co-workers at individual services
+
+
+invention: 発明
+売り切れ: sold out
+millionaire: 大富豪
+3 idiots
+予告編: trailer
+口コミ: word of mouth
+原因: cause, factor
+
+swear words: 汚い言葉
+
+
+ロサンゼルスで飛行機を乗り換えた
+飛行機から山火事が見れた
+
+
+
+ジムに行ったあとはタンパク質が多いdrinkを飲みます
+protein
+20gはとったほうが良いみたいです
+腹筋: sit-up
+weight-lift: 筋トレ(自重、ダンベル)
+
+編んでもらったネックウォーマーをプレゼントしてもらいました
+knit neck warmer
+
+初詣: first visit to the shrines or temples in three days of the beginning of the year.
+フィリピンの年末年始の行事
+coin shower
+feast: 宴 
+
+# 海外旅行を通じて、日本文化、文化比較
+察する: sympathize (with someone), guessing what other people are thinking.
+宗教: religion
+宗教的: religious
+人種: race
+アメリカは宗教や人種がたくさんいる背景がある(多民族国家)なので、コミュニケーションにおいて
+他の人の意見をよく聞こうとする土壌があるのかもしれない
+多民族国家: multiethic country, multiracial, multi
+itenary: 旅程
+相手の立場になって考える: think from someone's point of view
+日本は電車の混雑がひどい: congestion
+シアトルは町全体が海に向かって斜面になっていて、神戸に似ている雰囲気を感じた: slope
+TOEICでハイスコアをとって報奨金をもらいました: bounty
+技術者とマネージャーが対応な立場でした: equivalent
+Tolerant: 
+dashi: だし soup stock
+dough: ピザなどの生地
+日本の冬は鍋料理を作ります: hot pot, stew
+粗大ごみ: oversize garbage
+よろしくお願いします: best regard
+アメリカは日本より土地が広くて、スペースに余裕があります: plenty of space(land)
+
+# ゲーム
+迷っている: can't decide yet, I'm wondering which one to choose. I wonder if I ...
+地球防衛軍では空爆ができます: aerial bombing
+戦車: tank
+
+漫才: stand-up comedy
+scripted: 台本のある
+増築する: extend a building
+かかりつけ医: primary doctor
+鼻づまり: stuffy nose
+anemia: 貧血
+バリウム: barium (carbonic acid, carbonated drink)
+げっぷ: burp
+恥ずかしい: embarrassing
+展望台: observation deck
+参加者: participant
+国語: National language
+
+慣れている: be used to 
+知り合う: get to know
+get in touch with: 連絡を取り合う
+
+
+# なぜサブプライムローンの破綻が世界同時株安につながったか
+mortgage: 抵当権
+invenstment products: 投資商品
+investment trust: 投資信託
+資産: asset
+債権: credit
+需要と供給: demand and supply
+
+# 日本と韓国, 海外
+犠牲者: victim
+肉牛: beef cattle
+和牛: Japanese beef brand
+鍋料理: hot-pot
+イカ墨: squid's ink
+歯ごたえがある: crunchy
+
+as long as I know
+
+
+abbreviation: 略語
+Archipelago: 列島
+成人式: Coming-of-age ceremony
+Coined: 造語
+共同設備: shared facilities
+
+
+
+orthodox: 正統派、正教会
+固有名詞: proper noun
+意識したことなかった: I've nerver thought about that.
+on the wane: 斜陽
+高齢化社会: aging society
+stampede: 殺到する
+Christianity: キリスト教
+# 賃貸
+無人宅配ボックス: unmanned, mail box, delivery box
+設備: facility
+間取り: floor plan
+騒音に耐える: endure noise
+
+
+# daily news
+不正: injustice
+統計: statistics
+情報操作: manipulation of information
+徴兵制: conscription
+婉曲: Euphemistic
+免じて: for one's sake with
+entitlements: 資格、権利
+bereaved families: 遺族
+partly: 部分的に正しい
+endorsement: 支援、支持、承認
+good causes: 正当な理由
+buy stake: 買収
+code-sharing: 1つの定期便を複数の航空会社が発売している形態
+five-folds: 5倍の
+downsides: 負の側面
+
+Amid: 
+probe: 
+より最新のニュース
+
+polled: 
+造語: coined word
+testimony: 証言
+refugee: 難民
+reclamation zone: 埋立地
+diplomat: 外交官
+ cited, emphasize, statement
+dent: へこみ
+～と言い換えができる
+Republicans and Democrats
+保守、革新
+政党
+struck a short-term deal 
+
+tentative budget: 
+in a standoff :いきづまる
+誇張表現: hyperbole expression 
+極端な意見: extreme opinion
+parted: 分かれる
+sanctions: 制裁
+intelligence agency: 諜報組織
+in coming up with a way: 
+  thiking off away
+  in coming up-thinking of
+populace: 民衆
+
+
+ensuing nuclear accident: 
+the ensuing yearその翌年
+health deteriorated: 
+municipalities: 
+ molten
+ The debris resembling a clay mound was too hard for the robotic probe to move. Further probes and assessments have been underway.
+
+  decommissioning 
+
+transitional storage facility: 一時貯蔵施設
+conspicuous: attracting notice or attention. tempting 
+levee: 土手
+public works
+ polarization: 
+ 示唆する: 
+ forestry: 
+ expertise: 
+
+ 外交: diplomacy
+ state affairs: 国務
+ascend the throne : 即位する
+abdicate: 退位する
+予測する: prediction
+recession: 不況
+
+https://www3.nhk.or.jp/nhkworld/en/news/20190401_36/
+ on the lips of 
+The announcement was highly anticipated here because it will define the years ahead, as well as play a daily role in people's lives.
+
+ aspirations
+ like a plum flower flourishes after a severe winter.
+なぜ令和という短い言葉の中に深いcomprecatedな意味が存在しうるのか、どうやって理解するのか？
+原典やcontextから推測する必要がある。原典や文脈を知らなければ意味を理解することはできない
+nurtured: 育む
+connotation: 含意
+thermal
+And the fragrance of flowers is like that of 
+robes scented with incense.お香
+both houses of the Diet : group of politicians  (partylist)
+equality: 平等
+格差: Disparity
+異動する: personnel changes, staff reshuffle
+
+
+I have hardly heard any criticism about the era name.
+ because it will define the years ahead,
+prospering: 
+I hope this era will be prospering
+noble: 高貴な
+
+constrained: 窮屈
+celestial bodies: 
+bribe: 賄賂
+
+
+outskirts: 郊外
+対策: counter measure, prepare, take a measure
+
+後輩: junior worker
+人材不足: shotage of labor (man power)
+習慣にしています: make it a rule to, make a habit of Ving
+
+enshrine: 奉る
+sacred, holy: 聖なる
+
+
+obsession: boom, trends
+coincidence: 偶然、それは偶然です
+
+・1,000 banks to launch smartphone payment service
+https://www3.nhk.or.jp/nhkworld/en/news/20190423_11/
+- paymentの方式、メリデメ
+- ４種類の認証方式
+
+
+# アメリカと中国の貿易戦争
+・なぜ
+貿易戦争: trade war
+中国はマーケットを拡大し、アメリカに追いつこうとしている。アメリカはそれを脅威(threat)におもったのかもしれない
+中国は個人情報を違法に収集している
+huawei restricted trade with huawei
+サービスを長く続けるにはユーザーの信頼を得ることが重要
+合意なく個人情報を収集するのはよくない
+長い目で見れば
+・iPhoneとAndroidどっちがよいか
+iPhoneは高い
+でもiPhoneを使い続けるほうが周辺のソフトやアプリが継続して使える
+iPhoneにするかPixelにするか迷った
