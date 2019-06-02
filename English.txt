@@ -661,3 +661,8 @@ huawei restricted trade with huawei
 iPhoneは高い
 でもiPhoneを使い続けるほうが周辺のソフトやアプリが継続して使える
 iPhoneにするかPixelにするか迷った
+
+
+aaaa
+
+-A INPUT -m state --state NEW -m tcp -p tcp --dport 5901 -j ACCEPT
