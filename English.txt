@@ -663,6 +663,10 @@ iPhoneは高い
 iPhoneにするかPixelにするか迷った
 
 
-aaaa
+what kind of ability he has?
+封印: sealed
+薄力粉: flour
 
--A INPUT -m state --state NEW -m tcp -p tcp --dport 5901 -j ACCEPT
+savvy: knowledgeable
+Guerilla heavy rain
+電池: battery 
