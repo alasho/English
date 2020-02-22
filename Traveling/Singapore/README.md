@@ -10,6 +10,10 @@
 ## Description
 - I visited Singapore in 2018 summer.
 - The building seemed that it has a ship on the top.
-- 
+- Singapore got independence about 20 years ago from Malaysia.
+
 ## Words & Phrases
-- 
+- hotel
+  - high-end, luxurious
+  - regular, affordable
+  - low cost
