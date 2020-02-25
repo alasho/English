@@ -52,5 +52,5 @@ picturesque (for object)
 
 
 ～で有名なところ: 
-傾く: lean
-倒れそう: almost fall
+- 傾く: lean
+- 倒れそう: almost fall
