@@ -29,3 +29,28 @@
   - low cost
 
 
+# Singapore
+It takes 6-7 hours on airplane.
+Timezone 1 hour diff
+Singapore population is 5.5 million
+・言語
+シンガポールは多民族国家
+Singapore is a multinational country 
+the most spoken language is English.
+・食文化
+多民族国家だが、中華やマレーの食文化がよく見られる
+most popular cuisine was chicken rice & chilli crab
+cilli crab is very hot,
+difficult to eat by hand
+using scissor.
+to crack thier outside shell
+・訪れる場所
+Hotel
+photogenic (for people)
+picturesque (for object)
+
+
+
+～で有名なところ: 
+傾く: lean
+倒れそう: almost fall
