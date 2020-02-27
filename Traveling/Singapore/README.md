@@ -6,22 +6,22 @@
 |--|--|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Marina_Bay_Sands_in_the_evening_-_20101120.jpg/1280px-Marina_Bay_Sands_in_the_evening_-_20101120.jpg" width="500px"/> |<img src="./IMG_3815.JPG" width="450px"/>|
 |[Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%99%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%BA)||
-|NightActivityies|Specialty Foods|
+|NightLife|Foods|
 |<img src="">|--|
 
 ## Description
 - general
-  - I visited Singapore in 2018 summer.
+  - I visited Singapore in summer 2018.
   - It takes 6-7 hours by airplane.
   - There is a one hour time difference between Japan and Singapore.
   - Singapore population is 5.5 million.
-  - Singapore is almost on the equator, it's very hot.
-  - The most spoken language is English.
+  - Singapore is almost on the equator so it's very hot.
+  - The most dominant language is English.
 - Hotel
-  - The building seemed that it has a ship on the top.
+  - It seemed like the building has a ship on the top.
   - It's a landmark hotel in Singapore that has roof-top pool called infinity pool.
   - Marina Bay Sands seems to be physically unstable structure.
-  - The building company which built the building became bankrupt becase of its continuity.
+  - The building company which built the hotel became bankrupt becase of its continuity.
 - History & Culture
   - Singapore got independence about 20 years ago from Malaysia.
   - Singapore is a multinational country.
@@ -45,6 +45,10 @@
 Hotel
 photogenic (for people)
 picturesque (for object)
+
+
+most widely spoken
+office language
 
 ～で有名なところ: 
 - 傾く: lean
