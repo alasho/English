@@ -53,3 +53,27 @@ office language
 ～で有名なところ: 
 - 傾く: lean
 - 倒れそう: almost fall
+- spicy
+
+It's nice and clean, also a urban  city.
+
+It has many entertainment.
+It also has night life and you can enjoy the night show.
+They have a night safari open.
+Singapore is a multi national and multi cultural place.
+I didn't find it hard to communicate with them in English
+beacause they also are not native English speakers
+as I mentioned, they have multinational background,
+so they used to non-native English.
+### religious
+it's difficult to describe the religion there.
+I visted some temples in China town.
+There is also a chruch.
+### Foods
+They are next to the sea so we can enjoy many different types of seafood
+### access
+we didn't have to transit so it took us 7 hours
+
+### tan tan noodle
+It's a type of noodle inspired by China food
+
